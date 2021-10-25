@@ -32,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="VendasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -67,6 +68,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="285" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1635184739846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="285" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1635184739846" />
+    <state x="279" y="278" key="FileChooserDialogImpl" timestamp="1635185495296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="279" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1635185495296" />
     <state width="928" height="278" key="GridCell.Tab.0.bottom" timestamp="1635082566271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -83,9 +92,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="928" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1635082566270" />
-    <state x="183" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1635082069307">
+    <state x="0" y="166" key="SettingsEditor" timestamp="1635185496016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="183" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635082069307" />
+    <state x="0" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1635185496016" />
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1635182420138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635182420138" />
   </component>
 </project>
